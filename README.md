@@ -1,2 +1,2 @@
 # speaker
-ALFRED Speaker model
+A speaker model for ALFRED.
